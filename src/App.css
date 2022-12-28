@@ -1,0 +1,22 @@
+.app{
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.quota{
+    width: 25%;
+    height: 25%;
+    color: white;
+
+}
+
+.btn{
+    padding: 10px;
+    background-color: gold;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    color: white;
+}
